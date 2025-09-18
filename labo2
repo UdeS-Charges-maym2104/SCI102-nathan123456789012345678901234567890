@@ -1,4 +1,3 @@
 
 def salutation(nom):
     return ("bonjour"+nom+".")
-#Implémentation de la première fonctionnalité
