@@ -1,0 +1,3 @@
+
+def salutation(nom):
+    return ("bonjour"+nom+".")
